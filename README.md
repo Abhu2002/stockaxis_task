@@ -29,7 +29,7 @@ Ensure you have the following installed:
 
 4. **Run the app**
   ```sh 
-   flutter run
+   flutter run  
 
 6. **Project Structure**  
    📂 lib  
