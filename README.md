@@ -38,14 +38,14 @@ Ensure you have the following installed:
  ├── 📂 models                # Data models  
  └── 📂 utils                 # Utility functions  
 
- **How it Works**
-1.User selects a plan from the dropdown
-2.Pricing updates dynamically
-3.Total amount is calculated based on selection
-4.20% discount is applied when 2 or more plans are selected
+ **How it Works**  
+1.User selects a plan from the dropdown  
+2.Pricing updates dynamically  
+3.Total amount is calculated based on selection  
+4.20% discount is applied when 2 or more plans are selected  
 
 
-👨‍💻 Developed by: Abhay Kapadnis
+👨‍💻 Developed by: Abhay Kapadnis  
 📅 Submission Date: 3-03-2025
 
 
