@@ -1,16 +1,51 @@
-# stockaxis_task
+# 📈 StockAxis Flutter Assignment
 
-A new Flutter project.
+This Flutter project is a stock investment plan selection app that allows users to choose from different investment plans, view pricing, and apply discounts based on their selections.
 
-## Getting Started
+## 📌 Features
+✅ Dropdown selection for investment plans  
+✅ Pricing details with GST included  
+✅ Automatic total price calculation  
+✅ 20% discount when selecting two or more plans  
+✅ State management using **GetX**  
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+Ensure you have the following installed:
+- **Flutter** (latest stable version)  
+- **Dart SDK**  
+- **Android Studio / VS Code**  
+- **Git**  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📥 Installation
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/YOUR_USERNAME/stockaxis-flutter-assignment.git
+   cd stockaxis-flutter-assignment
+2. **Install the Dependencies**
+   flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Run the app**
+   flutter run
+
+4. **Project Structure**
+   📂 lib
+ ├── 📄 main.dart            # Entry point of the app
+ ├── 📂 views               # Contains UI screens
+ ├── 📂 controllers         # GetX state management logic
+ ├── 📂 widgets             # Reusable UI components
+ ├── 📂 models              # Data models
+ └── 📂 utils               # Utility functions
+
+ **How it Works**
+1.User selects a plan from the dropdown
+2.Pricing updates dynamically
+3.Total amount is calculated based on selection
+4.20% discount is applied when 2 or more plans are selected
+
+
+👨‍💻 Developed by: Abhay Kapadnis
+📅 Submission Date: 3-03-2025
+
+
