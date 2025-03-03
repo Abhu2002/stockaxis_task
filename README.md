@@ -30,7 +30,7 @@ Ensure you have the following installed:
    flutter run
 
 4. **Project Structure**  
-   📂 lib
+   📂 lib  
  ├── 📄 main.dart             # Entry point of the app  
  ├── 📂 views                 # Contains UI screens  
  ├── 📂 controllers           # GetX state management logic  
