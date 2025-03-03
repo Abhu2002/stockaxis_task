@@ -24,12 +24,14 @@ Ensure you have the following installed:
    git clone https://github.com/YOUR_USERNAME/stockaxis-flutter-assignment.git
    cd stockaxis-flutter-assignment
 2. **Install the Dependencies**
+   ```sh 
    flutter pub get
 
-3. **Run the app**
+4. **Run the app**
+  ```sh 
    flutter run
 
-4. **Project Structure**  
+6. **Project Structure**  
    📂 lib  
  ├── 📄 main.dart             # Entry point of the app  
  ├── 📂 views                 # Contains UI screens  
