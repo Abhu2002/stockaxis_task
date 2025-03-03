@@ -29,14 +29,14 @@ Ensure you have the following installed:
 3. **Run the app**
    flutter run
 
-4. **Project Structure**
+4. **Project Structure**  
    📂 lib
- ├── 📄 main.dart            # Entry point of the app
- ├── 📂 views               # Contains UI screens
- ├── 📂 controllers         # GetX state management logic
- ├── 📂 widgets             # Reusable UI components
- ├── 📂 models              # Data models
- └── 📂 utils               # Utility functions
+ ├── 📄 main.dart             # Entry point of the app
+ ├── 📂 views                 # Contains UI screens
+ ├── 📂 controllers           # GetX state management logic
+ ├── 📂 widgets               # Reusable UI components
+ ├── 📂 models                # Data models
+ └── 📂 utils                 # Utility functions
 
  **How it Works**
 1.User selects a plan from the dropdown
