@@ -28,7 +28,7 @@ Ensure you have the following installed:
    flutter pub get
 
 4. **Run the app**
-  ```sh 
+
    flutter run  
 
 6. **Project Structure**  
